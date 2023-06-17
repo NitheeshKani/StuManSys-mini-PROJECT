@@ -1,0 +1,4 @@
+Name,Regno,Grade
+stud01,22CD123,no data
+stud02,22CD125,no data
+stud03,22CS123,no data
